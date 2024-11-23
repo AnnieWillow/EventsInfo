@@ -1,4 +1,4 @@
-import Head from 'next/Head';
+import Head from 'next/head';
 import { getAllEvents } from "../../dummy-data";
 import EventList from "../../components/events/event-list";
 import { Fragment } from 'react';
