@@ -34,21 +34,22 @@ A Next.js project to browse and filter events information. Users can view all ev
 
 4. Open http://localhost:3000 in your browser.
 
-##Routes
+## Routes
 
 - /: Displays the NextEvents page with filters.
 - /events: Displays the BrowseAllEvents page showing all events.
 - /events/[id]: Displays detailed information about a selected event.
 
-##Deployment
+## Deployment
 
-1.Build the project for production:
- ```bash
- npm run build
+1. Build the project for production:
+   ```bash
+   npm run build
+
 
 2. Start the production server:
- ```bash
- npm start
+   ```bash
+   npm start
 
 
 
