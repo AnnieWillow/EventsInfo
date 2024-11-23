@@ -1,4 +1,4 @@
-import Head from 'next/Head';
+import Head from 'next/head';
 import { getFeaturedEvents } from '../dummy-data';
 import EventList from '../components/events/event-list';
 import EventSearch from '../components/events/event-search';
